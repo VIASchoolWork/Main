@@ -13,8 +13,8 @@ elif computerchoice == "rock" and val1 == "scissors":
 elif computerchoice == "paper" and val1 == "scissors":
     print("Congratulations, you won!")
 elif computerchoice == "paper" and val1 == "rock":    
-    print("Oh no, looks like the computer has wo")
+    print("Oh no, looks like the computer has won")
 elif computerchoice == "scissors" and val1 == "rock":    
     print("Congratulations, you won!")
 elif computerchoice == "scissors" and val1 == "paper":    
-    print("Oh no, looks like the computer has wo")
+    print("Oh no, looks like the computer has won")
