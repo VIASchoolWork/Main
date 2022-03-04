@@ -22,7 +22,9 @@ def pirmaisuzd():
     else:
         totalpay = x * y
         print(totalpay)
-pirmaisuzd()
+
+#pirmaisuzd()
+
 #THE ACTAL VERSION?
 def task2():
     line_one = ""
