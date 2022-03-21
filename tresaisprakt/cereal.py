@@ -1,10 +1,9 @@
-import re
-
 file = open("cereals.csv", "r")
 x = 0
 names = []
 ratings = []
 float_lst = []
+
 for line in file:
     line = line.strip()
     arr1 = line.split(",")
@@ -15,14 +14,16 @@ del names[0]
 del ratings[0]
 
 
+
 for item in ratings:
     float_lst.append(float(item))
-
 
 def Average(l):
     avg = sum(l) / len(l)
     return avg
+
 cerealnames = []
+
 for string in names:
     new_string = string.replace("_", " ")
     cerealnames.append(new_string)
@@ -38,3 +39,4 @@ average = Average(float_lst)
 print("The worst cereal is: "+sorted_list1[0]+" with the rating:"+str(sorted[0]))
 print("The average score is: "+str(average))
 print("The hgihest rated cereal is: "+sorted_list1[-1]+ " with the rating: "+str(sorted[-1]))
+
