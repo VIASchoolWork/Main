@@ -2,5 +2,18 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Documents/GitHub/desktop-tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Documents/GitHub/ictlabstask1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Documents/TheHub/AppPractical" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/BootCampNovember" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/LeagueApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/demo/demo/Oriana/orianna" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IdeaProjects/orianna" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PIUDCPA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PycharmProjects/Main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bootcamp/repo/4bootcamp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/iterm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mans-jaunais-repo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/via-piudzpa-helper-files" vcs="Git" />
   </component>
 </project>
